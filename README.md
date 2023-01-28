@@ -25,7 +25,7 @@ Publish the website in the given URL.
 
 
 ## OUTPUT:
-![](/EVENT.JPG)
+![](/EVENT.jpg)
 
 
 ## Result:
